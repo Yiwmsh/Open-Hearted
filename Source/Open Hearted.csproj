@@ -54,7 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DefOfs\InternalDefOfs.cs" />
-    <Compile Include="HarmonyPatches\HarmonyPatches_GriefDeath.cs" />
     <Compile Include="HarmonyPatches\HarmonyPatches.cs" />
     <Compile Include="MentalStates\MentalState_GriefDeath.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
