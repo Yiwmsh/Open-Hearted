@@ -5,7 +5,7 @@ using Verse;
 namespace Open_Hearted
 {
 	[StaticConstructorOnStartup]
-	public class Main
+	public static class Main
 	{
 		static Main()
 		{

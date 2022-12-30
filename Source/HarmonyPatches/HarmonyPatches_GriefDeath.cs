@@ -4,8 +4,7 @@ using Verse.AI;
 
 namespace Open_Hearted
 {
-	[HarmonyPatch(typeof(MentalBreakWorker))]
-	[HarmonyPatch("BreakCanOccur")]
+	[HarmonyPatch(typeof(MentalBreakWorker), "BreakCanOccur")]
 	public static class Open_Hearted_MentalBreakWorker_BreakCanOccur_Patch
 	{
 		[HarmonyPostfix]
