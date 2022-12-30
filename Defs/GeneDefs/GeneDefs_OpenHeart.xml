@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GeneDef>
+  <defName>Open_Hearted</defName>
+  <label>open hearted</label>
+  <labelShortAdj>openhearted</labelShortAdj>
+  <description>Carriers of this gene require nourishment of the soul in order to live. The only mental break they can experience is death.</description>
+  <displayCategory>Mood</displayCategory>
+  <displayOrderInCategory>60</displayOrderInCategory>
+  <biostatMet>6</biostatMet>
+  <minAgeActive>3</minAgeActive>
+  <symbolPack>
+    <prefixSymbols>
+      <li>
+        <symbol>intense</symbol>
+      </li>
+    </prefixSymbols>
+  </symbolPack>
+</GeneDef>
