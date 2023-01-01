@@ -15,7 +15,7 @@
 	<loadAfter>
 		<li>ludeon.rimworld.biotech</li>
 	</loadAfter>
-	<description>V1.1
+	<description>V1.2
     This mod adds a gene that causes colonists to die if they would experience a mental break.
 	</description>
 </ModMetaData>
