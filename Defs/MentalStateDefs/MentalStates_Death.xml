@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MentalBreakDef>
-        <defName>Grief_Death</defName>
+        <defName>Grief_Stricken</defName>
         <baseCommonality>1</baseCommonality>
-        <label>Griefstricken</label>
+        <label>Grief stricken</label>
         <intensity>Extreme</intensity>
         <mentalState>Grief_Death</mentalState>
         <requiredGene>Open_Hearted</requiredGene>
@@ -13,7 +13,7 @@
         <defName>Grief_Death</defName>
         <stateClass>Open_Hearted.MentalState_GriefDeath</stateClass>
         <inCaravanCanDo>true</inCaravanCanDo>
-        <label>GriefStricken</label>
+        <label>Grief Death</label>
         <category>Misc</category>
         <nameColor>(0.9,0.2,0.5)</nameColor>
         <beginLetter>{0} has, in grief, grown weary of the world and passed from it.</beginLetter>

@@ -12,5 +12,7 @@ namespace Open_Hearted
 		}
 
 		public static GeneDef Open_Hearted;
+		public static MentalBreakDef Grief_Stricken;
+		public static MentalStateDef Grief_Death;
 	}
 }
