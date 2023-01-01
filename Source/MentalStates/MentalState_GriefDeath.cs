@@ -6,7 +6,7 @@ namespace Open_Hearted
 		public override void PreStart()
 		{
 			base.PreStart();
-			base.pawn.health.SetDead();
+			base.pawn.Kill(null, null);
 		}
 	}
 }

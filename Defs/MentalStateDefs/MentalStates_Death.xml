@@ -21,7 +21,7 @@
         <maxTicksBeforeRecovery>60000</maxTicksBeforeRecovery>
         <recoveryMtbDays>0.166</recoveryMtbDays>
         <recoveryMessage>{0} has somehow regained their spirit!</recoveryMessage>
-        <baseInspectLine>Mental state: Grief Stricken Death</baseInspectLine>
+        <baseInspectLine>Grief Stricken Death</baseInspectLine>
         <recoverFromSleep>true</recoverFromSleep>
     </MentalStateDef>
 </Defs>
